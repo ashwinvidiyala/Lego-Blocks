@@ -1,4 +1,4 @@
 # Lego-Blocks-HTML
 
-I created internet.png (in the internet_images folder) from scratch using
-HTML and CSS.
+The objective of the assignment was to use CSS display functions to move around
+blocks on an HTML page.
